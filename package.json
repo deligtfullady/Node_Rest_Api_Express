@@ -1,0 +1,15 @@
+{
+  "name": "lesson4-rest-api",
+  "version": "1.0.0",
+  "description": "REST API with users stored in a JSON file",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": ["express", "rest", "api"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
